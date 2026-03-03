@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "this is a library manaagement API backeend for the management of user and books",
+  "homepage": "https://github.com/MhdYaseen3/library-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/MhdYaseen3/library-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MhdYaseen3/library-management-system.git"
+  },
+  "license": "ISC",
+  "author": "yaseen",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

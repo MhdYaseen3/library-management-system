@@ -1,0 +1,25 @@
+{
+    "user" :[
+        {
+            "id":1,
+            "name":"yaseen",
+            "email":"yaseenaachu08@gmail.com",
+            "subscription":"basic",
+            "books":[]
+        },
+        {
+            "id":1,
+            "name":"yaseen",
+            "email":"yaseenaachu08@gmail.com",
+            "subscription":"basic",
+            "books":[]
+        },
+        {
+            "id":1,
+            "name":"yaseen",
+            "email":"yaseenaachu08@gmail.com",
+            "subscription":"basic",
+            "books":[]
+        }
+    ]
+}
