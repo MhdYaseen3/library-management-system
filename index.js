@@ -1,4 +1,10 @@
 const express = require('express');
+// const {user} = require('./data/user.json');
+
+// const {books} = require('./data/books.json');
+
+const userRouter = require("./routes/user");
+const booksRouter = require("./routes/books");
 
 const app = express();
 
@@ -12,11 +18,12 @@ app.get("/",(req,res)=>{
     })
 })
 
-// app.all('*',(reg,res)=>{
-//     res.status(500).json({
-//         message : "route not found"
-//     })
-// })
+
+app.use("/user",userRouter);
+app.use("/books",booksRouter);
+
+
+
 
 app.listen (PORT, () =>{
     console.log(`server is running on http://localhost:${PORT}`)
