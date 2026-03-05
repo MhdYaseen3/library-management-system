@@ -1,0 +1,28 @@
+{
+    "user" :[
+        {
+            "id":1,
+            "name":"yaseen",
+            "email":"yaseenaachu08@gmail.com",
+            "issuedBook" : "1", 
+            "subscriptionType":"basic",
+            "subscrptionDate":"2025-02-01"
+        },
+        {
+            "id":2,
+            "name":"yaseen",
+            "email":"yaseenaachu08@gmail.com",
+             "issuedBook" : "1", 
+
+            "subscriptionType":"basic",
+            "subscrptionDate":"2025-01-01"
+        },
+        {
+            "id":3,
+            "name":"yaseen",
+            "email":"yaseenaachu08@gmail.com",
+            "subscriptionType":"basic",
+            "subscrptionDate":"2025-03-01"
+        }
+    ]
+}

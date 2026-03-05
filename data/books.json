@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "quantity": 5,
+      "userissuedBooks": true,
+      "issuedBook": 1
+    },
+    {
+      "id": 2,
+      "name": "Deep Work",
+      "author": "Cal Newport",
+      "quantity": 3
+    }
+  ]
+}
