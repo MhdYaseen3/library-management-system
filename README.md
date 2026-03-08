@@ -50,3 +50,20 @@ npm init
 npm i express
 npm i nodemon -save-dev
 to restore node module and package-lock.json
+
+npm i mongoose
+npm install mongodb
+mongodb+srv://mhdyaseen:<db_password>@cluster0.18bxg8v.mongodb.net/?appName=Cluster0
+yaseen-aachu123
+
+mongodb+srv://mhdyaseen:<yaseen-aachu123>@cluster0.18bxg8v.mongodb.net/?appName=Cluster0
+
+
+npm i dotenv
+
+## MVC
+>>MODEL (strucutre of collection)
+>>VIEW (frontend)
+>>CONTROLLER (brain )
+
+### DTO data transsfer object
